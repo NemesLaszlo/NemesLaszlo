@@ -22,7 +22,7 @@ Hi there, I'm **Laszlo Nemes**, a **Teacher / Demonstrator** ( Eötvös Lóránd
   
   **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently a Teacher / Demonstrator at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
+- 👨‍💻 I'm currently a Teacher / Demonstrator at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
 - 🌱 I’m currently learning Information Systems; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Big Data, Embedded Systems, Deep Learning, Software Engineering, etc..;
 - 💼 I’am pursuing a Master of Science degree in Computer Science;
