@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Laszlo
 
-<a href="www.linkedin.com/in/laszlo-nemes/">
+<a href="https://www.linkedin.com/in/laszlo-nemes/">
   <img align="left" alt="NemesLaszlo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Leslie_Nemes">
