@@ -29,5 +29,3 @@ Hi there, I'm **Laszlo Nemes**, a **Teacher / Demonstrator** ( Eötvös Lóránd
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wow.laszlo@gmail.com to reach me.
 - 📝 See my [Resume](https://nemeslaszlo.github.io/Portfolio-Website/assets/CV%20-Eng.pdf) or [Portfolio site](https://nemeslaszlo.github.io/Portfolio-Website/) to get more info.
-
-![NemesLaszlo's github stats](https://github-readme-stats.vercel.app/api?username=NemesLaszlo&show_icons=true&hide_border=true)
