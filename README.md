@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hi there, I'm **Laszlo Nemes**, a **Teacher / Demonstrator** ( Eötvös Lóránd University 👨‍💻 ) and a **MS Computer Science student** 🎓 from Hungary. In the last two summer i was an intern at evosoft Hungary Kft. 💻 I am trying to learn many new technologies and patterns to develop myself further and further in the future 👨‍💼.
+Hi there, I'm **Laszlo Nemes**, a **Teaching assistant** ( Eötvös Lóránd University 👨‍💻 ) and a **MS Computer Science student** 🎓 from Hungary. In the last two summer i was an intern at evosoft Hungary Kft. 💻 I am trying to learn many new technologies and patterns to develop myself further and further in the future 👨‍💼.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
   **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a Teacher / Demonstrator at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
+- 👨‍💻 I'm currently a Teaching assistant at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
 - 🌱 I’m currently learning Information Systems; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Big Data, Embedded Systems, Deep Learning, Software Engineering, etc..;
 - 💼 I’am pursuing a Master of Science degree in Computer Science;
