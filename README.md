@@ -22,9 +22,9 @@ Hi there, I'm **Laszlo Nemes**, a **Teaching assistant** ( Eötvös Lóránd Uni
   
   **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a Teaching assistant at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
+- 👨‍💻 I'm currently a Teaching assistant at the university. My last [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2021.1874252) was a stock market analysis with various sentiment analysis tools to predict and/or see the previous changes of the stock values changes based on the stock news headlines. My earlier [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
 - 🌱 I’m currently learning Information Systems; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Big Data, Embedded Systems, Deep Learning, Software Engineering, etc..;
+- 🤔 My interests are with Natural Language Processing/Understanding, Big Data, Software Engineering, etc..;
 - 💼 I’am pursuing a Master of Science degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wow.laszlo@gmail.com to reach me.
