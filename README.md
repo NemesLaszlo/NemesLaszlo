@@ -1,16 +1,16 @@
 ### Hey <img alt="👋" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/hello.gif?raw=true" width="30" height="30" />, I'm Laszlo
 
 <a href="https://www.linkedin.com/in/laszlo-nemes/">
-  <img align="left" alt="NemesLaszlo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="NemesLaszlo's LinkdeIn" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Leslie_Nemes">
-  <img align="left" alt="NemesLaszlo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="NemesLaszlo's Twitter" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/twitter.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Laszlo_Nemes7">
-  <img align="left" alt="NemesLaszlo's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+  <img align="left" alt="NemesLaszlo's ResearchGate" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/researchgate.svg" />
 </a>
 <a href="https://orcid.org/0000-0001-6167-9369/">
-  <img align="left" alt="NemesLaszlo's Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+  <img align="left" alt="NemesLaszlo's Orcid" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/orcid.svg" />
 </a>
 
 <br />
