@@ -18,7 +18,7 @@
 
 Hi there, I'm **Laszlo Nemes**, a **Teaching assistant** ( Eötvös Lóránd University 👨‍💻 ) and a **MS Computer Science student** 🎓 from Hungary. In the last two summer i was an intern at evosoft Hungary Kft. 💻 I am trying to learn many new technologies and patterns to develop myself further and further in the future 👨‍💼.
 
-  <img align="right" alt="GIF" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/code.gif?raw=true" width="460" height="440" />
+  <img align="right" alt="GIF" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/code.gif?raw=true" width="450" height="440" />
   
   **Talking about Personal Stuffs:**
 
