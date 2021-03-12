@@ -1,4 +1,4 @@
-### Hey 👋, I'm Laszlo
+### Hey <img alt="👋" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/hello.gif?raw=true" width="30" height="30" />, I'm Laszlo
 
 <a href="https://www.linkedin.com/in/laszlo-nemes/">
   <img align="left" alt="NemesLaszlo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,7 +18,7 @@
 
 Hi there, I'm **Laszlo Nemes**, a **Teaching assistant** ( Eötvös Lóránd University 👨‍💻 ) and a **MS Computer Science student** 🎓 from Hungary. In the last two summer i was an intern at evosoft Hungary Kft. 💻 I am trying to learn many new technologies and patterns to develop myself further and further in the future 👨‍💼.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/code.gif?raw=true" width="500" height="320" />
   
   **Talking about Personal Stuffs:**
 
