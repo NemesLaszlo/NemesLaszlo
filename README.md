@@ -10,7 +10,7 @@
   <img align="left" alt="NemesLaszlo's ResearchGate" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/researchgate.svg" />
 </a>
 <a href="https://orcid.org/0000-0001-6167-9369/">
-  <img align="left" alt="NemesLaszlo's Orcid" width="25px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/orcid.svg" />
+  <img align="left" alt="NemesLaszlo's Orcid" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
 <br />
