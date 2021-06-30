@@ -6,8 +6,11 @@
 <a href="https://twitter.com/Leslie_Nemes">
   <img align="left" alt="NemesLaszlo's Twitter" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/twitter.svg" />
 </a>
-<a href="https://www.researchgate.net/profile/Laszlo_Nemes7">
+<a href="https://www.researchgate.net/profile/Laszlo-Nemes-4">
   <img align="left" alt="NemesLaszlo's ResearchGate" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/researchgate.svg" />
+</a>
+<a href="https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en">
+  <img align="left" alt="NemesLaszlo's Google Scholar" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/google_scholar.svg" />
 </a>
 <a href="https://orcid.org/0000-0001-6167-9369/">
   <img align="left" alt="NemesLaszlo's Orcid" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/orcid.svg" />
