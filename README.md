@@ -20,8 +20,6 @@
 <br />
 
 Hi there, I'm **Laszlo Nemes**. I am a **Software Engineer** at [Starschema](https://starschema.com/) 👨‍💻. I graduated from Eötvös Lóránd University with a **Computer science MSc** 🎓 degree on Information Systems Specialization. During my studies, i worked as a **Teaching assistant** 👨‍🏫 and **Researcher** 👨‍🔬 and spent several internships at Evosoft. I like to delve into new things, understand and use them, try these new technologies in action. Be it Software Engineering, Data Science / Analysis or DevOps 💻.
-
-  <img align="right" alt="GIF" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/code.gif?raw=true" width="450" height="440" />
   
   **Talking about Personal Stuffs:**
 
