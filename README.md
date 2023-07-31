@@ -18,7 +18,6 @@
 <a href="https://orcid.org/0000-0001-6167-9369/">
   <img align="left" alt="NemesLaszlo's Orcid" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/orcid.svg" />
 </a>
-
 <br />
 <br />
 
