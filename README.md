@@ -4,7 +4,7 @@
   <img align="left" alt="NemesLaszlo's LinkdeIn" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Leslie_Nemes">
-  <img align="left" alt="NemesLaszlo's Twitter" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/twitter-new-x.svg" />
+  <img align="left" alt="NemesLaszlo's Twitter" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/twitter.svg" />
 </a>
 <a href="https://www.nuget.org/profiles/NemesLaszlo">
   <img align="left" alt="NemesLaszlo's Nuget" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/nuget.svg" />
