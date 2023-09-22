@@ -1,4 +1,4 @@
-### Hey <img alt="👋" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/hello.gif?raw=true" width="30" height="30" />, I'm Laszlo
+### Hey 👋 , I'm Laszlo
 
 <a href="https://www.linkedin.com/in/laszlo-nemes/">
   <img align="left" alt="NemesLaszlo's LinkdeIn" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/linkedin.svg" />
