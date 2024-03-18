@@ -1,4 +1,4 @@
-### Hey <img alt="👋" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/hello.gif?raw=true" width="30" height="30" />, I'm Laszlo
+### Hey 👋 , I'm Laszlo
 
 <a href="https://www.linkedin.com/in/laszlo-nemes/">
   <img align="left" alt="NemesLaszlo's LinkdeIn" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/linkedin.svg" />
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi there, I'm **Laszlo Nemes**. I am a **Software Engineer** at [Starschema](https://starschema.com/) 👨‍💻. I graduated from Eötvös Lóránd University with a **Computer science MSc** 🎓 degree on Information Systems Specialization. During my studies, i worked as a **Teaching assistant** 👨‍🏫 and **Researcher** 👨‍🔬 and spent several internships at Evosoft. I like to delve into new things, understand and use them, try these new technologies in action. Be it Software Engineering, Data Science / Analysis or DevOps 💻.
+Hi there, I'm **Laszlo Nemes**. I am a **Software Engineer** at [Starschema](https://starschema.com/) 👨‍💻 and **Guest Lecturer** at [Eötvös Lóránd University](https://www.inf.elte.hu/). I graduated from Eötvös Lóránd University with a **Computer science MSc** 🎓 degree on Information Systems Specialization. During my studies, i worked as a **Teaching assistant** 👨‍🏫 and **Researcher** 👨‍🔬 and spent several internships at [Evosoft](https://www.evosoft.hu/). I like to delve into new things, understand and use them, try these new technologies in action. Be it Software Engineering, Data Science / Analysis or DevOps 💻.
   
   **Talking about Personal Stuffs:**
 
