@@ -42,7 +42,7 @@ I hold an **MSc in Computer Science** 🎓 with a specialization in Information 
 🌱 **Currently Exploring**
 
 - Angular & Frontend Engineering
-- Data Science and Machine Learning (LLM and AI Agents)
+- Data Science and Machine Learning (LLMs and AI Agents)
 
 💬 **Let’s Connect**
 
