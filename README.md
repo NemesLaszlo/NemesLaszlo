@@ -25,9 +25,7 @@
 <br />
 <br />
 
-I’m a **Senior Software Engineer** at [HCLTech Starschema Ltd.](https://starschema.com/) 👨‍💻, **Guest Lecturer** at [Eötvös Lóránd University](https://www.inf.elte.hu/), and **Founder** at [WorkWise Solutions](https://workwise-solutions.net/).
-
-I hold an **MSc in Computer Science** 🎓 with a specialization in Information Systems from Eötvös Lóránd University. During my studies, I worked as a **Teaching Assistant** 👨‍🏫 and **Researcher** 👨‍🔬, and completed several internships at [Evosoft](https://www.evosoft.hu/). I love diving into new technologies, understanding how they work, and applying them to real-world problems—whether in Software Engineering, Data Science, or DevOps 💻.
+I’m a **Senior Software Engineer** at [HCLTech Starschema Ltd.](https://starschema.com/) 👨‍💻, **Guest Lecturer** at [Eötvös Lóránd University](https://www.inf.elte.hu/), and **Founder** at [WorkWise Solutions](https://workwise-solutions.net/). I hold an **MSc in Computer Science** 🎓 with a specialization in Information Systems from Eötvös Lóránd University. During my studies, I worked as a **Teaching Assistant** 👨‍🏫 and **Researcher** 👨‍🔬, and completed several internships at [Evosoft](https://www.evosoft.hu/). I love diving into new technologies, understanding how they work, and applying them to real-world problems—whether in Software Engineering, Data Science, or DevOps 💻.
 
  🔧 **What I Work On**
  
@@ -39,14 +37,7 @@ I hold an **MSc in Computer Science** 🎓 with a specialization in Information 
 
 - 👨‍💻 My latest [publication](https://www.mdpi.com/2076-3417/11/22/11017) was an extended Sentiment Analysis with Information Extraction and Named Entity Recognition support, which provides a deeper insight into the interpretation of sentiment outcomes and can provide a basis for further linguistic and even psychological focused further analysis. An another [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2021.1874252) covered a stock market analysis with various sentiment analysis tools to predict and/or see the previous changes of the stock values changes based on the stock news headlines. My first [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
 
-🌱 **Currently Exploring**
-
-- Angular & Frontend Engineering
-- Data Science and Machine Learning (LLMs and AI Agents)
-
 💬 **Let’s Connect**
 
-- 🤔 Interests: LLMs, Big Data, Software Architecture, DevOps
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wow.laszlo@gmail.com to reach me.
 - 📝 See my [Resume](https://laszlonemes.com/assets/CV%20-Eng.pdf) or [Portfolio site](https://laszlonemes.com) to get more info.
