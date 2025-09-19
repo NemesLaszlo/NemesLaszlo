@@ -32,7 +32,7 @@ I’m a **Senior Software Engineer** at [HCLTech Starschema Ltd.](https://starsc
 
  🔧 **What I Work On**
  
-- 📦 I maintain several [NuGet packages](https://www.nuget.org/profiles/NemesLaszlo) that simplify working with different file storage providers such as Azure Blob Storage, Amazon S3, MinIO, SharePoint, and Box. These libraries provide clean abstractions for common operations like uploading, downloading, listing, and managing files.
+- 📦 I maintain several [NuGet packages](https://www.nuget.org/profiles/NemesLaszlo) that simplify working with different file storage providers such as Azure Blob Storage, Amazon S3, MinIO, SharePoint, Box and Physical. These libraries provide clean abstractions for common operations like uploading, downloading, listing, and managing files.
 - 🌐 I also maintain an [npm package](https://www.npmjs.com/~nemeslaszlo) for Angular, focused on making frontend development smoother.
 - 🐍 On the Python side, I maintain a [pip package](https://pypi.org/project/tableau-api-client/), a type-safe client for the Tableau Server REST API with built-in authentication, pagination, and content management.
 - 🛠️ I’m building a [product](https://workwise-solutions.net/products) under **WorkWise Solutions** for **client and work ticket management**, helping teams organize tasks and support requests more efficiently.
