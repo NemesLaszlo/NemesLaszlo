@@ -12,6 +12,9 @@
 <a href="https://www.npmjs.com/~nemeslaszlo">
   <img align="left" alt="NemesLaszlo's Npm" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/npm.svg" />
 </a>
+<a href="https://pypi.org/user/nemeslaszlo/">
+  <img align="left" alt="NemesLaszlo's Pip" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/pip.svg" />
+</a>
 <a href="https://www.researchgate.net/profile/Laszlo-Nemes-4">
   <img align="left" alt="NemesLaszlo's ResearchGate" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/researchgate.svg" />
 </a>
