@@ -44,4 +44,6 @@ I’m a **Senior Software Engineer** at [HCLTech Starschema Ltd.](https://www.hc
 💬 **Let’s Connect**
 
 - 📫 Please email via wow.laszlo@gmail.com to reach me.
+- 🎓 Please email via laszlo.nemes@inf.elte.hu for university-related matters.
+- 💼 Please email via nemesl@starschema.net for work-related matters.
 - 📝 See my [Resume](https://laszlonemes.com/assets/CV-Eng.pdf) or [Portfolio site](https://laszlonemes.com) to get more info.
