@@ -1,49 +1,18 @@
-### Hey 👋 , I'm Laszlo
+Senior Software Engineer / Product Engineer at [HCLTech Starschema](https://www.hcltech.com/geo-presence/hungary), Guest Lecturer at [ELTE](https://www.inf.elte.hu/), and Founder at [WorkWise Solutions](https://workwise-solutions.net/). I build and ship products that serve Fortune 500 clients: Apple, Netflix, GE, and others.
 
-<a href="https://www.linkedin.com/in/laszlo-nemes/">
-  <img align="left" alt="NemesLaszlo's LinkdeIn" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Leslie_Nemes">
-  <img align="left" alt="NemesLaszlo's Twitter" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/twitter.svg" />
-</a>
-<a href="https://www.nuget.org/profiles/NemesLaszlo">
-  <img align="left" alt="NemesLaszlo's Nuget" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/nuget.svg" />
-</a>
-<a href="https://www.npmjs.com/~nemeslaszlo">
-  <img align="left" alt="NemesLaszlo's Npm" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/npm.svg" />
-</a>
-<a href="https://pypi.org/user/nemeslaszlo/">
-  <img align="left" alt="NemesLaszlo's Pip" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/pip.svg" />
-</a>
-<a href="https://www.researchgate.net/profile/Laszlo-Nemes-4">
-  <img align="left" alt="NemesLaszlo's ResearchGate" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/researchgate.svg" />
-</a>
-<a href="https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en">
-  <img align="left" alt="NemesLaszlo's Google Scholar" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/google_scholar.svg" />
-</a>
-<a href="https://orcid.org/0000-0001-6167-9369/">
-  <img align="left" alt="NemesLaszlo's Orcid" width="23px" src="https://github.com/NemesLaszlo/NemesLaszlo/blob/master/icons/orcid.svg" />
-</a>
+<img src="icons/website.svg" width="14" height="14" alt="" />&nbsp;[Website](https://laszlonemes.com)&nbsp;&nbsp; <img src="icons/linkedin.svg" width="14" height="14" alt="" />&nbsp;[LinkedIn](https://www.linkedin.com/in/laszlo-nemes/)&nbsp;&nbsp; <img src="icons/x.svg" width="14" height="14" alt="" />&nbsp;[X](https://x.com/Leslie_Nemes)&nbsp;&nbsp; <img src="icons/resume.svg" width="14" height="14" alt="" />&nbsp;[Resume](https://laszlonemes.com/assets/CV-Eng.pdf)<br />
+<img src="icons/mail.svg" width="14" height="14" alt="" />&nbsp;[Email](mailto:wow.laszlo@gmail.com)&nbsp;&nbsp; <img src="icons/briefcase.svg" width="14" height="14" alt="" />&nbsp;[Work&nbsp;Email](mailto:nemesl@starschema.net)&nbsp;&nbsp; <img src="icons/university.svg" width="14" height="14" alt="" />&nbsp;[University&nbsp;Email](mailto:laszlo.nemes@inf.elte.hu)
 
-<br />
-<br />
+<img src="icons/writing.svg" width="14" height="14" alt="" />&nbsp;**Writing** — [Two kinds of micromonolith](https://laszlonemes.com/blog/micromonoliths) · [Loop engineering is a control problem](https://laszlonemes.com/blog/loop-engineering) · [All&nbsp;posts](https://laszlonemes.com/blog)<br />
+<img src="icons/university.svg" width="14" height="14" alt="" />&nbsp;**Teaching** — Course material from my ELTE classes on [laszlonemes.com/university](https://laszlonemes.com/university)<br />
+<img src="icons/scholar.svg" width="14" height="14" alt="" />&nbsp;**Research** — Three peer-reviewed NLP papers on [Google Scholar](https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en)<br />
+<img src="icons/podcast.svg" width="14" height="14" alt="" />&nbsp;**Podcast** — Co-host of [Letscode.hu](https://open.spotify.com/show/3wZjM32xxbvNMCaZ6qSoFh)
 
-I’m a **Senior Software Engineer / Product Engineer** at [HCLTech Starschema Ltd.](https://www.hcltech.com/geo-presence/hungary) 👨‍💻, **Guest Lecturer** at [Eötvös Lóránd University](https://www.inf.elte.hu/), and **Founder** at [WorkWise Solutions](https://workwise-solutions.net/). I hold an **MSc in Computer Science** 🎓 with a specialization in Information Systems from Eötvös Lóránd University. During my studies, I worked as a **Teaching Assistant** 👨‍🏫 and **Researcher** 👨‍🔬, and completed several internships at [Evosoft](https://www.evosoft.hu/). I love diving into new technologies, understanding how they work, and applying them to real-world problems—whether in Software Engineering, Data Science, or DevOps 💻.
+### Packages
 
- 🔧 **What I Work On**
- 
-- 📦 I maintain several [NuGet packages](https://www.nuget.org/profiles/NemesLaszlo) that simplify working with different file storage providers such as Azure Blob Storage, Amazon S3, MinIO, SharePoint, Box, GCP Bucket and Physical. These libraries provide clean abstractions for common operations like uploading, downloading, listing, and managing files.
-- 🌐 I also maintain an [npm package](https://www.npmjs.com/~nemeslaszlo) for Angular, focused on making frontend development smoother.
-- 🐍 On the Python side, I maintain [pip packages](https://pypi.org/user/nemeslaszlo/), a type-safe client for the Tableau Server REST API with built-in authentication, pagination, and content management and etc.
-- 🛠️ I’m building a [product](https://workwise-solutions.net) under **WorkWise Solutions** for **client and work ticket management**, helping teams organize tasks and support requests more efficiently.
-
-📚 **Publications**
-
-- 👨‍💻 My latest [publication](https://www.mdpi.com/2076-3417/11/22/11017) was an extended Sentiment Analysis with Information Extraction and Named Entity Recognition support, which provides a deeper insight into the interpretation of sentiment outcomes and can provide a basis for further linguistic and even psychological focused further analysis. An another [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2021.1874252) covered a stock market analysis with various sentiment analysis tools to predict and/or see the previous changes of the stock values changes based on the stock news headlines. My first [publication](https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1790793) was a Natural Language Processing project with Sentiment Classification using Recurrent Neural Network;
-
-💬 **Let’s Connect**
-
-- 📫 Please email via wow.laszlo@gmail.com to reach me.
-- 🎓 Please email via laszlo.nemes@inf.elte.hu for university-related matters.
-- 💼 Please email via nemesl@starschema.net for work-related matters.
-- 📝 See my [Resume](https://laszlonemes.com/assets/CV-Eng.pdf) or [Portfolio site](https://laszlonemes.com) to get more info.
+| Package | About |
+| --- | --- |
+| **[Cloud.&#8203;File.&#8203;Storage.&#8203;Manager](https://www.nuget.org/profiles/NemesLaszlo)**<br />[![NuGet](https://img.shields.io/nuget/v/Cloud.File.Storage.Manager.Common?label=nuget)](https://www.nuget.org/packages/Cloud.File.Storage.Manager.Common) | File storage for [Azure Blob](https://www.nuget.org/packages/Cloud.File.Storage.Manager.AzureBlob), [S3](https://www.nuget.org/packages/Cloud.File.Storage.Manager.AmazonS3), [MinIO](https://www.nuget.org/packages/Cloud.File.Storage.Manager.Minio), [SharePoint](https://www.nuget.org/packages/Cloud.File.Storage.Manager.SharePoint), [Box](https://www.nuget.org/packages/Cloud.File.Storage.Manager.Box), [GCS](https://www.nuget.org/packages/Cloud.File.Storage.Manager.GoogleCloudStorage), [disk](https://www.nuget.org/packages/Cloud.File.Storage.Manager.Physical) |
+| **[angular-resize-event-package](https://www.npmjs.com/package/angular-resize-event-package)**<br />[![npm](https://img.shields.io/npm/v/angular-resize-event-package)](https://www.npmjs.com/package/angular-resize-event-package) | Resize events for Angular elements |
+| **[tableau-api-client](https://pypi.org/project/tableau-api-client/)**<br />[![PyPI](https://img.shields.io/pypi/v/tableau-api-client)](https://pypi.org/project/tableau-api-client/) | Typed Tableau REST API client |
+| **[mft-fortableau](https://pypi.org/project/mft-fortableau/)**<br />[![PyPI](https://img.shields.io/pypi/v/mft-fortableau)](https://pypi.org/project/mft-fortableau/) | Custom tasks for Manager for Tableau |
