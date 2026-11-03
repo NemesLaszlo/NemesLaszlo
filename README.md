@@ -8,6 +8,7 @@ Senior Software Engineer / Product Engineer at [HCLTech Starschema](https://www.
 <a href="https://www.npmjs.com/~nemeslaszlo"><img src="icons/npm.svg" width="22" height="22" alt="npm" title="npm" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://pypi.org/user/nemeslaszlo/"><img src="icons/pypi.svg" width="22" height="22" alt="PyPI" title="PyPI" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en"><img src="icons/scholar.svg" width="22" height="22" alt="Google Scholar" title="Google Scholar" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Laszlo-Nemes-4"><img src="icons/researchgate.svg" width="22" height="22" alt="ResearchGate" title="ResearchGate" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://laszlonemes.com/assets/CV-Eng.pdf"><img src="icons/resume.svg" width="22" height="22" alt="Resume" title="Resume" /></a>
 </p>
 
@@ -19,7 +20,7 @@ Senior Software Engineer / Product Engineer at [HCLTech Starschema](https://www.
 
 <img src="icons/writing.svg" width="14" height="14" alt="" />&nbsp;**Writing** — [Two kinds of micromonolith](https://laszlonemes.com/blog/micromonoliths) · [Loop engineering is a control problem](https://laszlonemes.com/blog/loop-engineering) · [All&nbsp;posts](https://laszlonemes.com/blog)<br />
 <img src="icons/university.svg" width="14" height="14" alt="" />&nbsp;**Teaching** — Course material from my ELTE classes on [laszlonemes.com/university](https://laszlonemes.com/university)<br />
-<img src="icons/scholar.svg" width="14" height="14" alt="" />&nbsp;**Research** — Three peer-reviewed NLP papers on [Google Scholar](https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en)<br />
+<img src="icons/scholar.svg" width="14" height="14" alt="" />&nbsp;**Research** — Three peer-reviewed NLP papers on [Google Scholar](https://scholar.google.hu/citations?user=Q3FgtVUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Laszlo-Nemes-4)<br />
 <img src="icons/podcast.svg" width="14" height="14" alt="" />&nbsp;**Podcast** — Co-host of [Letscode.hu](https://open.spotify.com/show/3wZjM32xxbvNMCaZ6qSoFh)
 
 ### Contact
